@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**lukasz-brzozko/lukasz-brzozko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Łukasz Brzózko, a front-end developer. On my profile, you'll find various projects that I work on out of my love for coding and learning new technologies.
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Łukasz Brzózko's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasz-brzozko&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasz-brzozko&layout=compact&theme=radical)
+
+## 💬 Contact
+
+Feel free to reach out to me via [email](lukasz9099@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lukasz-brzozko/).
+
+Thank you for visiting my profile! 🌟
