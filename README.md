@@ -8,6 +8,6 @@ Hi there! I'm Łukasz Brzózko, a front-end developer. On my profile, you'll fin
 
 ## 💬 Contact
 
-Feel free to reach out to me via [email](lukasz9099@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lukasz-brzozko/).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lukasz-brzozko/).
 
 Thank you for visiting my profile! 🌟
